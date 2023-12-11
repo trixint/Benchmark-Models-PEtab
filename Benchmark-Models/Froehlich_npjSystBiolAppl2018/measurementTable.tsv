@@ -8,7 +8,7 @@ GFP_obs	condition1	20.903	3600	sigma
 GFP_obs	condition1	24.944	4200	sigma
 GFP_obs	condition1	46.45	4800	sigma
 GFP_obs	condition1	59.947	5400	sigma
-eFP_obs	condition1	71.134	6000	sigma
+GFP_obs	condition1	71.134	6000	sigma
 GFP_obs	condition1	88.25	6600	sigma
 GFP_obs	condition1	105.563	7200	sigma
 GFP_obs	condition1	110.9	7800	sigma
